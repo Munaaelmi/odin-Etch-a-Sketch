@@ -7,6 +7,13 @@
   margin-bottom: 0;
 }
 
+header {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  gap: 100px;
+}
+
 .container {
   width: 45%;
   /* border: 1px solid green; */
