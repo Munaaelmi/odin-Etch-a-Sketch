@@ -29,3 +29,6 @@ header {
   height: 50px;
   cursor: pointer;
 }
+.container2 {
+  border: 2px solid red;
+}
